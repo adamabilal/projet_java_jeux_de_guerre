@@ -1,7 +1,7 @@
 package personnage.util;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author AdamaTRAORE
  *
  */
 public enum Ressource {

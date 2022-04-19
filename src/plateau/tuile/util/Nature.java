@@ -3,7 +3,7 @@ package plateau.tuile.util;
 import java.util.Random;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author  AdamaTRAORE
  *
  */
 public enum Nature {

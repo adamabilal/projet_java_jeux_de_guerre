@@ -6,7 +6,7 @@ import plateau.tuile.Tuile;
 import plateau.tuile.util.Nature;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author AdamaTRAORE
  *
  */
 public abstract class Personnage {

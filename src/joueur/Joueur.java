@@ -7,7 +7,7 @@ import personnage.util.Ressource;
 import plateau.tuile.Tuile;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author AdamaTRAORE
  *
  */
 public abstract class Joueur {

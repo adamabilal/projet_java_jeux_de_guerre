@@ -4,11 +4,9 @@ Vous devez *forker* ce projet dans votre espace de travail Gitlab (bouton `Fork`
 
 Une fois cela réalisé supprimer ces premières lignes et remplissez les noms des membres de votre équipe.
 
-# Equipe
+# Auteur
 
-- Aissatou Ibrahima DIALLO
 - Adama TRAORE
-- Pascal Sébastien AGBA
 
 # Sujet
 

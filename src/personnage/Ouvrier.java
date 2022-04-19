@@ -4,7 +4,7 @@ import joueur.*;
 import plateau.tuile.util.Nature;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author AdamaTRAORE
  *
  */
 public class Ouvrier extends Personnage {

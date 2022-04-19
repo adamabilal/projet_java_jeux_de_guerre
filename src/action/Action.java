@@ -4,7 +4,7 @@ import joueur.Joueur;
 import plateau.tuile.Tuile;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author AdamaTRAORE
  *
  */
 public abstract class Action {

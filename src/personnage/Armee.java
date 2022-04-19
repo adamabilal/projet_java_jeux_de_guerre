@@ -3,7 +3,7 @@ package personnage;
 import joueur.JoueurArmee;
 
 /**
- * @author AissatouIbrahima & AdamaTRAORE
+ * @author  AdamaTRAORE
  *
  */
 public class Armee extends Personnage {

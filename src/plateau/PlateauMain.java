@@ -3,7 +3,7 @@ package plateau;
 import java.util.Random;
 
 /**
- * @author AISSATOUIBRAHIMA ADAMATRAORE
+ * @author  ADAMATRAORE
  *
  */
 public class PlateauMain {
